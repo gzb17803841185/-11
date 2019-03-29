@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#di{
+	width: 1900px;
+	height: 165px;
+	margin: 0px auto;
+	background-color: darkgray;
+	color: white;
+}
+#bu{
+	width: 950px;
+	margin: 0px auto;
+}

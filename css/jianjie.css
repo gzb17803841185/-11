@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#ge p{
+	font-size: 20px;
+	font-weight: bold;
+}
+#gez{
+	width: 1100px;
+	margin: 0px auto;
+}
+
+footer{
+	background-color: black;
+	font-size: 22px;
+	color: white;
+}

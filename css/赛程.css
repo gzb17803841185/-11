@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#gzb5 img{
+	float: right;
+	
+}
+#cc{
+	width: 1200px;
+	margin: 0px auto;
+}
+.qq{
+	font-size: 17px;
+	background-color: antiquewhite;
+	
+	color: maroon;
+}
+
+.pp{
+	font-size: 17px;
+}
+footer{
+	background-color: black;
+	font-size: 22px;
+	color: white;
+}

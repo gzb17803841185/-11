@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#ge{
+	width: 1895px;
+	height: 2300px;
+	background-image: url(../img/QQ截图20180628092809.png);
+}
+a{
+	color: blue;
+	text-decoration: none ;
+	
+}
+#ge a:hover{
+	color: coral;
+}
+#zui{
+	margin: 0px auto;
+	height: 100px;
+	width: 900px;
+	background-color: gainsboro;
+	opacity: 0.8;
+}
+
+
+nav li{
+	float: left;
+	margin-left: 85px;
+}
+nav ul{
+	line-height: 30px;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
+nav{
+	background-color: white;
+	
+	margin: 0px auto;
+	overflow: hidden;
+	width: 900px;
+}
+footer{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	text-align: center;
+}

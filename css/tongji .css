@@ -1,0 +1,65 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#gzb4{
+	width: 1905px;
+	height: 35px;
+	margin: 0px auto;
+	color: black;
+	background-color: gainsboro;
+}
+a{
+	color: red;
+	text-decoration: none ;
+	font-size: 21px;
+}
+#gzb4 a:hover{
+	color: coral;
+}
+#gzb5{
+		width: 1905px;
+		height: 145px;
+		background-color: cornflowerblue;
+		margin: 0px auto;
+}
+#gzb6{
+	width: 1199px;
+	height: 292px;
+	background-color: ghostwhite;
+	margin: 0px auto;
+}
+#gzb6 span{
+	margin-right: 50px;
+}
+
+#he{
+	width:1199px ;
+	height: 38px;
+	background-color: cornflowerblue;
+	margin: 0px auto;
+}
+#gzb9{
+	float: left;
+	
+}
+#gzb9 ul{
+	float: right;
+}
+.dd{
+	font-size: 30px;
+	font-weight: bold;
+}
+.ss{
+	font-size: 23px;
+}
+#zz{
+	float: right;
+}
+footer{
+	font-size: 20px;
+	color: black;
+	
+	text-align: center;
+}

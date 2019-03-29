@@ -1,0 +1,129 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+a{
+	color: black;
+	text-decoration: none ;
+
+}
+
+#gez1{
+	width: 900px;
+	height: 150px;
+
+	background-color: white;
+	margin: 0px auto;
+}
+#gez1 p{
+		font-size: 18px;
+		
+	
+}
+#gez1 img{
+	float: left;
+	
+}
+#gez0{
+	width: 900px;
+	margin: 0px auto;
+	font-size: 19px;
+	color: white;
+	background-color: darkkhaki;
+}
+#gez2{
+	width: 900px;
+	height: 150px;
+	background-color: gainsboro;
+	margin: 0px auto;
+}
+#gez2 p{
+		font-size: 18px;
+		
+}
+#gez2 img{
+	float: left;
+	
+}
+#gez3{
+	width: 900px;
+	height: 150px;
+	
+	background-color: white;
+	margin: 0px auto;
+}
+#gez3 p{
+		font-size: 18px;
+		
+	
+}
+#gez3 img{
+		float: left;
+	
+}
+#gez4{
+	width: 900px;
+	height: 150px;
+
+	background-color: gainsboro;
+	margin: 0px auto;
+}
+#gez4 p{
+		font-size: 18px;
+		
+	
+}
+#gez4 img{
+		float: left;
+	
+}
+#gez5{
+	width: 900px;
+	height: 150px;
+	
+	background-color: white;
+	margin: 0px auto;
+}
+#gez5 p{
+		font-size: 18px;
+		
+	
+}
+#gez5 img{
+		float: left;
+	
+}
+#gez6{
+	width: 900px;
+	height: 150px;
+	
+	background-color: gainsboro;
+	margin: 0px auto;
+}
+#gez6 p{
+		font-size: 18px;
+		
+	
+}
+#gez6 img{
+		float: left;
+	
+}
+#gez7{
+	width: 900px;
+	height: 150px;
+	
+	background-color: white;
+	margin: 0px auto;
+}
+#gez7 p{
+		font-size: 18px;
+		
+	
+}
+#gez7 img{
+		float: left;
+	
+}
+

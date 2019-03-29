@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+
+.zhi12{
+	font-size: 22px;
+	border-style: solid;
+	border-color: darkkhaki;
+}
+.zhi12 td{
+	width: 110px;
+	background-color: white;
+	border-style: solid;
+	border-color: darkkhaki;
+	border:solid black; border-width:1px 1px 1px 1px;
+	border:solid black; border-width:0px 1px 1px 0px;
+}
+.zhi11{
+	font-size: 26px;
+	color: gray;
+	font-weight: bold;
+}
+#ge0{
+	width: 900px;
+	margin: 0px auto;
+}
+footer{
+	color: white;
+	background-color: black;
+	font-size: 20px;
+}
